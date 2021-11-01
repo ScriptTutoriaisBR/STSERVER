@@ -1,0 +1,34 @@
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\bin\Debug\STSERVER.exe.config
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\bin\Debug\STSERVER.exe
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\bin\Debug\STSERVER.pdb
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\bin\Debug\STSERVER.xml
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\obj\Debug\STSERVER.Main.resources
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\obj\Debug\STSERVER.Resources.resources
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\obj\Debug\STSERVER.vbproj.GenerateResource.Cache
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\obj\Debug\STSERVER.exe
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\obj\Debug\STSERVER.xml
+C:\Users\LUMATECH02\AppData\Local\Temporary Projects\STSERVER\obj\Debug\STSERVER.pdb
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\bin\Debug\STSERVER.exe.config
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\obj\Debug\STSERVER.exe
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\obj\Debug\STSERVER.xml
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\obj\Debug\STSERVER.pdb
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\bin\Debug\STSERVER.exe
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\bin\Debug\STSERVER.pdb
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\bin\Debug\STSERVER.xml
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\obj\Debug\STSERVER.Main.resources
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\obj\Debug\STSERVER.Resources.resources
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\obj\Debug\STSERVER.vbproj.GenerateResource.Cache
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\obj\Debug\STSERVER.Sobre.resources
+C:\Users\LUMATECH02\Documents\Visual Studio 2012\Projects\STSERVER\STSERVER\obj\Debug\STSERVER.Config_php.resources
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\bin\Debug\STSERVER.exe.config
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\bin\Debug\STSERVER.exe
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\bin\Debug\STSERVER.pdb
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\bin\Debug\STSERVER.xml
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.Config_php.resources
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.Sobre.resources
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.Main.resources
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.Resources.resources
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.vbproj.GenerateResource.Cache
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.exe
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.xml
+C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.pdb
