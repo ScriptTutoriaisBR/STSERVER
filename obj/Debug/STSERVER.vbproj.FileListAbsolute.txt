@@ -32,3 +32,15 @@ C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.vbproj.Generate
 C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.exe
 C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.xml
 C:\Users\LUMATECH\Downloads\STSERVER\STSERVER\obj\Debug\STSERVER.pdb
+C:\xampp\htdocs\STSERVER\bin\Debug\STSERVER.exe.config
+C:\xampp\htdocs\STSERVER\obj\Debug\STSERVER.exe
+C:\xampp\htdocs\STSERVER\obj\Debug\STSERVER.xml
+C:\xampp\htdocs\STSERVER\obj\Debug\STSERVER.pdb
+C:\xampp\htdocs\STSERVER\bin\Debug\STSERVER.exe
+C:\xampp\htdocs\STSERVER\bin\Debug\STSERVER.pdb
+C:\xampp\htdocs\STSERVER\bin\Debug\STSERVER.xml
+C:\xampp\htdocs\STSERVER\obj\Debug\STSERVER.Config_php.resources
+C:\xampp\htdocs\STSERVER\obj\Debug\STSERVER.Sobre.resources
+C:\xampp\htdocs\STSERVER\obj\Debug\STSERVER.Main.resources
+C:\xampp\htdocs\STSERVER\obj\Debug\STSERVER.Resources.resources
+C:\xampp\htdocs\STSERVER\obj\Debug\STSERVER.vbproj.GenerateResource.Cache
